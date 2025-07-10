@@ -8,12 +8,17 @@ The program is useful in providing data about a given path. For instance, instea
 
 {Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
 
-[Software Demo Video](http://youtube.link.goes.here)
-
+[Software Demo Video](https://www.loom.com/share/8e2da45e72ed459e9312ac69527f103a?sid=e2f2c977-a773-4b04-805f-c03210de28fe)
 # Development Environment
-
 Tools used include: Typescript, NodeJS.
 The Typescript was compiled to Javascript.
+
+# To Run the app
+Delete the dist and node_modules folders if any
+Run the following commands:
+- npm install
+- npm run build
+- npm run start
 
 # Useful Websites
 
